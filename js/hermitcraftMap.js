@@ -13,7 +13,7 @@ function getPOI(mapObject) {
     poiLayer = L.layerGroup();
 
     // sets the path for the POI json for current selected season
-    poiPath = 'data/hc'+ season +'/poi.json';
+    poiPath = 'data/hc'+ season +'/poi.json?v=202103070442';
 
     // loads data from the JSON above
     var xhr = new XMLHttpRequest();
