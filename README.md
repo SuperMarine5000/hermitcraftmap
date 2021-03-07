@@ -4,7 +4,7 @@ Easily browse maps for all Hermitcraft seasons!
 Live at [https://saadbruno.github.io/hermitcraftmap/](https://saadbruno.github.io/hermitcraftmap/)
 ![Screenshot of the Hermitcraft Map](img/thumbnail.png "Screenshot of the Hermitcraft Map")
 
-## POI
+## Points of Interest
 
 ![POI example](img/poi-example.png "POI example")
 
