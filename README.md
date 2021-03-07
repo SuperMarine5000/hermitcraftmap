@@ -6,7 +6,7 @@ Live at [https://saadbruno.github.io/hermitcraftmap/](https://saadbruno.github.i
 
 ## Roadmap:
 - Add other dimensions such as the Nether and the End. Currently limited by [https://github.com/NeoRaider/MinedMap](MinedMap), since it doesn't generate maps for those dimensions.
-- Add points of interest, here's a concept of what it could look like:
+- Add points of interest, here's a concept of what it could look like:  
 ![POI concept](img/poi-concept.png "POI concept")
 
 ## Links
