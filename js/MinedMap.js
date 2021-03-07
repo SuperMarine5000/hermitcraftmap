@@ -1,3 +1,5 @@
+// this file contains the content of the original MinedMap.js file, with minimal modification to allow for easier updates, in case the original repo updates this file
+
 const urlParams = new URLSearchParams(window.location.search);
 // get current season. If no season is selected, use 6
 const season = urlParams.get('season') ? urlParams.get('season')  : '6';
@@ -180,6 +182,10 @@ window.createMap = function () {
 				[-512*mipmaps[0].info.minZ, 512*(mipmaps[0].info.maxX+1)],
 			],
 		});
+
+		// gets the point of interests, function is in the hermitcraftMap.js
+		// this is custom code, added on top of the original MinedMap.js file. We should probably use a class here, the same way MinedMapLayer() works to keep things consistent. But this works for now
+		getPOI(map);
 
 		var mapLayer = new MinedMapLayer(mipmaps, 'map');
 		var lightLayer = new MinedMapLayer(mipmaps, 'light');

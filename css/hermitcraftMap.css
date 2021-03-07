@@ -22,3 +22,11 @@ img.overzoomed {
     image-rendering: pixelated;
     -ms-interpolation-mode: nearest-neighbor;
 }
+
+.leaflet-marker-icon {
+    background: white;
+    border-radius: 100px;
+    padding: 5px;
+    box-sizing: content-box;
+    box-shadow: 5px 8px 5px 0px rgb(0 0 0 / 20%);
+}
