@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Spawn",
+        "coordX": -1333,
+        "coordY": 80,
+        "coordZ": -1050,
+        "comment": "Hermits spawn here",
+        "icon_url": "https://hermitcraft.com/content/img/favicon.png"
+    },
+    {
+        "title": "Don't Die Compound",
+        "coordX": 900,
+        "coordZ": -440,
+        "comment": "Appears in <a href='https://www.youtube.com/watch?v=sxC0K7KxllM'>Mumbo's S06E131</a>",
+        "icon_url": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Bricks_JE5_BE3.png"
+    }
+]
