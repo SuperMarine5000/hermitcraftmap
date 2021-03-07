@@ -4,7 +4,7 @@
         "coordX": -1333,
         "coordY": 80,
         "coordZ": -1050,
-        "comment": "Hermits spawn here",
+        "comment": "Hermits spawn here  <img src='https://github.com/saadbruno/hermitcraftmap/raw/main/img/thumbnail.png'>",
         "icon_url": "https://hermitcraft.com/content/img/favicon.png"
     },
     {
@@ -13,5 +13,26 @@
         "coordZ": -440,
         "comment": "Appears in <a href='https://www.youtube.com/watch?v=sxC0K7KxllM'>Mumbo's S06E131</a>",
         "icon_url": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Bricks_JE5_BE3.png"
+    },
+    {
+        "title": "FalseSymmetry's base",
+        "coordX": -312,
+        "coordZ": -1254,
+        "comment": "An intricate, sprawling, complex in the fantasy district. Featured a clock tower, gardens, and many purple roofs. <br> <a href='https://hermitcraft.fandom.com/wiki/Season_6?file=Falsebase.png'><img src='https://static.wikia.nocookie.net/hermitcraft/images/a/ad/Falsebase.png'></a>",
+        "icon_url": "https://static.wikia.nocookie.net/hermitcraft/images/c/c0/FalseSymmetry-face.png"
+    },
+    {
+        "title": "iJevin's base",
+        "coordX": 1789,
+        "coordZ": -716,
+        "comment": "Lived in an odd snowflake/fidget spinner shaped base. <br> <a href='https://hermitcraft.fandom.com/wiki/Season_6?file=Screenshot_20191116-213001.jpg'><img src='https://static.wikia.nocookie.net/hermitcraft/images/9/96/Screenshot_20191116-213001.jpg'></a>",
+        "icon_url": "https://static.wikia.nocookie.net/hermitcraft/images/b/bc/IJevin-face.png"
+    },
+    {
+        "title": "ZombieCleo's base",
+        "coordX": 7,
+        "coordZ": -1358,
+        "comment": "A colourful ship being attacked by a kraken and other invaders, complete with dynamic armor-stand sailors and a pirate-themed dock town. <br> <a href='https://hermitcraft.fandom.com/wiki/Season_6?file=Capture.jpg'><img src='https://static.wikia.nocookie.net/hermitcraft/images/4/4a/Capture.jpg'></a>",
+        "icon_url": "https://static.wikia.nocookie.net/hermitcraft/images/0/0d/Cleo_Profile.png"
     }
 ]

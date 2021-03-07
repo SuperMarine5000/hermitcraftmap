@@ -30,3 +30,7 @@ img.overzoomed {
     box-sizing: content-box;
     box-shadow: 5px 8px 5px 0px rgb(0 0 0 / 20%);
 }
+
+.leaflet-popup-content img {
+    max-width: 100%;
+}
