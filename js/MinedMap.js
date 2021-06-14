@@ -1,8 +1,8 @@
 // this file contains the content of the original MinedMap.js file, with minimal modification to allow for easier updates, in case the original repo updates this file
 
 const urlParams = new URLSearchParams(window.location.search);
-// get current season. If no season is selected, use 6
-const season = urlParams.get('season') ? urlParams.get('season')  : '6';
+// get current season. If no season is selected, use 7
+const season = urlParams.get('season') ? urlParams.get('season')  : '7';
 
 
 var MinedMapLayer = L.GridLayer.extend({
