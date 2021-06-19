@@ -3,7 +3,7 @@
         "title": "Mumbo's Base",
         "coordX": -1313,
         "coordZ": 582,
-        "comment": "Mumboooo",
+        "comment": "Mumbo Jumbo you are afk",
         "icon_url": "https://i.imgur.com/Oqr64aK.png"
     },
     {
@@ -19,5 +19,96 @@
         "coordZ": -199,
         "comment": "<a href='https://hermitcraft.fandom.com/wiki/Season_7_Aqua_Town' target='_blank'>Fandom Article</a>",
         "icon_url": "https://i.imgur.com/MTH5Wqf.png"
+    },
+     {
+        "title": "Grian's Mansion",
+        "coordX": -1213,
+        "coordZ": 952,
+        "comment": "No'one will see the back",
+        "icon_url": ""
+    },
+     {
+        "title": "Rendog's Star Wars Base",
+        "coordX": -695,
+        "coordZ": 1014,
+        "comment": "Red winter is coming",
+        "icon_url": ""
+    },
+    {
+        "title": "Scar-X",
+        "coordX": -1663,
+        "coordZ": 690,
+        "comment": "That's a big hole",
+        "icon_url": ""
+    },
+    {
+        "title": "Shopping District",
+        "coordX": 0,
+        "coordZ": 0,
+        "comment": "Where the shops are bigger than Town Hall",
+        "icon_url": ""
+    },
+    {
+        "title": "False's Base",
+        "coordX": 475,
+        "coordZ": -430,
+        "comment": "Very hexagon",
+        "icon_url": ""
+    },
+    {
+        "title": "Cubfan's Pyramid",
+        "coordX": 616,
+        "coordZ": 616,
+        "comment": "Home to Targét",
+        "icon_url": ""
+    },
+    {
+        "title": "Keralis's City",
+        "coordX": -1121,
+        "coordZ": 28,
+        "comment": "Home to the Keralis Games",
+        "icon_url": ""
+    },
+    {
+        "title": "Mapping District",
+        "coordX": 2301,
+        "coordZ": 2424,
+        "comment": "Who to vote for...",
+        "icon_url": ""
+    },
+    {
+        "title": "Turf War",
+        "coordX": -10,
+        "coordZ": 411,
+        "comment": "How many wars has Grian started now?",
+        "icon_url": ""
+    },
+    {
+        "title": "Bdubs' Fantasy Town",
+        "coordX": 1634,
+        "coordZ": -949,
+        "comment": "Highest sleep rate in the server",
+        "icon_url": ""
+    },
+    {
+        "title": "ImpulseSV's Ocean Pyramid",
+        "coordX": -248,
+        "coordZ": -300,
+        "comment": "It's pink now",
+        "icon_url": ""
+    },
+    {
+        "title": "Industrial Districts",
+        "coordX": -3126,
+        "coordZ": 1469,
+        "comment": "Style vs function",
+        "icon_url": ""
+    },
+    {
+        "title": "Toon Towers",
+        "coordX": 36,
+        "coordZ": -432,
+        "comment": "",
+        "icon_url": ""
     }
 ]
